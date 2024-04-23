@@ -1,2 +1,2 @@
-# VYverilog
-A clone of "gettemplate" - My personal reference template
+# My_verilog_laborator_exercise
+SAVE MY PROJECTS FOR FUTURE REHEARSAL.
